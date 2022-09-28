@@ -1,6 +1,6 @@
 Video Game Sales
 
-In this project I tried to response some questions about the games released and their sales:
+In this project I tried to answer some questions about the games released and their sales:
 
 1. How many games were released
 2. Wich year had more releases
